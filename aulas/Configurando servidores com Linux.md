@@ -25,6 +25,7 @@ guest only = yes
 - Instale o `apt install apache2 -y` e cheque se ela já está ouvindo requisições.
 - Diretório padrão do index é `/var/www/html/index.html`
 - No EC2, necessário liberar protocolo http além do ssh nos grupos de segurança se quiser acessar via html.
+- https://loader.io pode ser usado para stress test.
 
 ---
 ## Servidores de banco de dados
