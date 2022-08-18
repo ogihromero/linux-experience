@@ -32,3 +32,5 @@ guest only = yes
 - As consultas são usadas para exibir informações de acordo.
 - `apt search mysql-server` para verificar qual versão do mysql instalar.
 - `mysql -u root -p` para usar o mysql como usuario root.
+
+- Sempre ao trabalhar com scripts, o ideal é usar o `apt-get` e `-y`
